@@ -1,0 +1,13 @@
+{
+    "name": "sivanzor/yii2_charts",
+    "description": "Charts Widget for Yii 2", 
+    "type": "yii2-extension",   
+    "require": {
+        "yiisoft/yii2": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "sivanzor\\yii2_charts\\": ""
+        }
+    }
+}
