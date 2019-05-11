@@ -1,7 +1,8 @@
 {
     "name": "sivanzor/yii2_charts",
     "description": "Charts Widget for Yii 2", 
-    "type": "yii2-extension",   
+    "type": "yii2-extension",
+	"version": "0.0.1",   
     "require": {
         "yiisoft/yii2": "*"
     },
